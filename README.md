@@ -4,7 +4,7 @@
 
 ### 🛠️ Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amannmishraa&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amannmishraa&layout=compact&theme=radical&include_all_commits=true)
 
 
 
