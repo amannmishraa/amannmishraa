@@ -1,9 +1,13 @@
 ## 📊 GitHub Stats
 
-![Aman GitHub Stats](https://github-readme-stats.vercel.app/api?username=amannmishraa&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amannmishraa&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amannmishraa&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amannmishraa&theme=radical)
 
-## 🔥 GitHub Streak
+## 🔥 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=amannmishraa&theme=radical)
+
+## 📈 Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amannmishraa&theme=react-dark)
