@@ -1,16 +1,9 @@
-### 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amannmishraa&show_icons=true&theme=radical)
+![Aman GitHub Stats](https://github-readme-stats.vercel.app/api?username=amannmishraa&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-### 🛠️ Languages & Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amannmishraa&layout=compact&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amannmishraa&layout=compact&theme=radical&include_all_commits=true)
+## 🔥 GitHub Streak
 
-
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=amannmishraa&theme=radical)
